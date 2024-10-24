@@ -129,3 +129,11 @@ p.title-news {
     bottom: 0;
     margin: auto;
 }
+
+.advise {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
+    cursor: pointer;
+}
